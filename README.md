@@ -35,6 +35,7 @@ api = "your_api_key_here"
 
 - Any unexpected behavior or incorrect match regarding the game category may be related to the data provided by the RAWG API itself. It's recommended to check the documentation provided by RAWG and ensure that the API is being used correctly.
 - Please find the documentation at [RAWG API Documentation](https://api.rawg.io/docs/).
-- Users are encouraged to refer to the RAWG API documentation for any additional information or updates. If necessary, users can provide supplements to the application to improve its functionality.
+- You are encouraged to refer to the RAWG API documentation for any additional information or updates. If you like, you can provide supplements to the application to improve its functionality.
+- If you are interested, you can find the fonts used in this app by referring to the 'fonts' directory in the repository.
 
 
